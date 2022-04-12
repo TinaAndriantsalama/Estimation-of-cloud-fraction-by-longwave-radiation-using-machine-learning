@@ -3,17 +3,18 @@
 #### Requirements
 1. Intall Python 3 or latest version
 
-2. Install pip 
-'''
-For windows : 
+2. Install pip: 
+For windows: 
+''' 
 	* Open cmd 
 	* Download PIP get-pip.py by runing: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 	* Installing PIP by the command: python get-pip.py
 	* Verify Installation: pip help 
 	* Add Pip to Windows Environment Variables: https://phoenixnap.com/kb/install-pip-windows 
 '''
+For linux: 
 '''
-	For Linux 
+	F
 	Just execut the following commands: 
 	$ sudo apt update
 	$ sudo apt install python2-pip
