@@ -4,7 +4,7 @@
 1. Intall Python 3 or latest version
 
 2. Install pip: 
-For windows: 
+###### For windows: 
 ''' 
 	* Open cmd 
 	* Download PIP get-pip.py by runing: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
@@ -12,7 +12,7 @@ For windows:
 	* Verify Installation: pip help 
 	* Add Pip to Windows Environment Variables: https://phoenixnap.com/kb/install-pip-windows 
 '''
-For linux: 
+###### For linux: 
 '''
 	F
 	Just execut the following commands: 
