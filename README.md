@@ -27,3 +27,5 @@ For windows :
 #### Get repository 
 The simplest and most conventional way is with git : git clone <URL_to_the_repository>
 
+N.B: Before to start runing the code, change the path for data_ path to the right directory 'Data' _ 
+
