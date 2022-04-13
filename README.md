@@ -3,8 +3,9 @@
 #### Requirements
 1. Intall Python 3 or latest version
 
-2. Install pip: 
-###### For windows: 
+2. Install pip: \\
+
+ For windows: 
 ''' 
 	* Open cmd 
 	* Download PIP get-pip.py by runing: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
@@ -12,14 +13,26 @@
 	* Verify Installation: pip help 
 	* Add Pip to Windows Environment Variables: https://phoenixnap.com/kb/install-pip-windows 
 '''
-###### For linux: 
+\\
+
+For linux:\\  
 '''
-	F
+	For Linux 
 	Just execut the following commands: 
 	$ sudo apt update
 	$ sudo apt install python2-pip
 '''
-3. Install jupyter lab
+3.Creat a new envirenement variable 
+
+4. Install packages :
+	* pandas 
+	* numpy
+	* matplotlib
+	* sklearn 
+	* tesnsorflow 
+	* keras 
+
+4. Install jupyter lab
 '''
 	pip install jupyter lab 
 '''
