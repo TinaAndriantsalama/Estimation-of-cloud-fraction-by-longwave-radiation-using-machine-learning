@@ -5,7 +5,7 @@
 
 2. Install pip:
 
-3.Creat a new envirenement variable 
+3.Creat a new envirenement 
 
 4. Install packages :
 	* pandas 
