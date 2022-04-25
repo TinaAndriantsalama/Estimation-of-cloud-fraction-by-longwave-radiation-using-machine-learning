@@ -1,4 +1,4 @@
-### LongwaveEstimationOfCloudFraction-With-XGBoost-And-ANNmodel
+### Estimation of cloud fraction by longwave radiation using machine learning
 
 #### Requirements
 1. Intall Python 3 or latest version
